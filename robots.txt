@@ -12,3 +12,5 @@ Disallow: —
 
 User-agent: Twitterbot
 Disallow: —
+
+Sitemap: https://www.drdeldolor.com/sitemap.xml
